@@ -1,6 +1,6 @@
 **Stroke Prediction**
 
-Hriday Kondru (B20CS021), Rachit (B20AI032), Rohit Bhanudas Kote(B20CS056)
+Rachit (B20AI032), Hriday Kondru (B20CS021), Rohit Bhanudas Kote(B20CS056)
 
 **Abstract:**
 
@@ -62,11 +62,13 @@ Out of numerous classification algorithms, we implemented the following:
 
 The number of 1’s is 209 and number of 0’s is 4700 ; i.e. the data is very skewed
 
-![](media/831ec3cc0d570034e749086841532812.png)
+![image](https://github.com/wow7seven/Stroke-Prediction/assets/100991200/173ad51e-35b9-443c-84e2-97569af911f9)
+
 
 Thus any model applied on this dataset may give a good accuracy score but the recall score for 1 will be very less. Thus to improve the recall score of the model we need to oversample 1’s and undersample 0’s
 
-![](media/e085b7854e48f2fe13a31c39200869a0.png)
+![image](https://github.com/wow7seven/Stroke-Prediction/assets/100991200/173ad51e-35b9-443c-84e2-97569af911f9)
+
 
 # **Tabular Comparisons:**
 
@@ -106,7 +108,7 @@ Initially Accuracy =73.21 ,F1 score=0.21 ,Recall =0.79
 
 Finally Accuracy =81.16 ,F1 score=0.23 ,Recall =0.65
 
-![](media/1ceebe1404b359b95138a89c39c04eaf.png)
+![image](https://github.com/wow7seven/Stroke-Prediction/assets/100991200/ae96de04-e4d6-463d-b238-7e1e85aa6df3)
 
 **Note:**
 
