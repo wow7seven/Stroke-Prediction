@@ -1,7 +1,5 @@
 **Stroke Prediction**
 
-Rachit (B20AI032), Hriday Kondru (B20CS021), Rohit Bhanudas Kote(B20CS056)
-
 **Abstract:**
 
 This paper reports our experience with building a Stroke prediction machine learning algorithm.
